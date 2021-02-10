@@ -27,6 +27,7 @@ for i, v in enumerate(ciudadanos):
             i = j
             print(k,ciudadanos[i])
 
+
 '''print(ciudadanos)
 print(ciudadanos[:-1])
 ciudadanos.pop(2)
